@@ -1,2 +1,2 @@
-# PROGDAS-BURATNA
+# GITHUB-PRACTICE-HarlandYogananda
 test
